@@ -33,5 +33,4 @@ A social media platform that allows users to upload images and text, inspired by
 ## Running the App
 Once everything is set up, you can run the development server and open the app in your browser to see it in action.
 
-**Acknowledgement**
-This app was built with guidance from a few videos on youtube that provided foundational insights into its development. I followed tutorials for learning to work with Appwrite DB and its integration with frontend(vite.js) using react-queries and mutations. 
+**Acknowledgement:**This app was built with guidance from a few videos on youtube that provided foundational insights into its development. I followed tutorials for learning to work with Appwrite DB and its integration with frontend(vite.js) using react-queries and mutations. 
