@@ -13,6 +13,7 @@ A social media platform that allows users to upload images and text, inspired by
 ## Features
 
 - **Responsive Design:** The app is fully responsive across all devices, ensuring a seamless user experience on mobile, tablet, and desktop.
+- **Completely Working:** The app is has all the features of a social media platform and more will be added soon.
 - **Infinite Scroll:** The explore page features infinite scroll, allowing users to continuously browse through content without page reloads.
 
 ## Upcoming Features
@@ -31,3 +32,6 @@ A social media platform that allows users to upload images and text, inspired by
 
 ## Running the App
 Once everything is set up, you can run the development server and open the app in your browser to see it in action.
+
+**Acknowledgement**
+This app was built with guidance from a few videos on youtube that provided foundational insights into its development. I followed tutorials for learning to work with Appwrite DB and its integration with frontend(vite.js) using react-queries and mutations. 
