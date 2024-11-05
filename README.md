@@ -2,7 +2,7 @@
 
 A social media platform that allows users to upload images and text, inspired by Pinterest. This app provides inspiration and a platform for curators.
 
-Live: mitraz.vercel.app/
+Live: [mitraz.vercel.app/](https://mitraz.vercel.app/)
 
 ## Tech Stack
 
