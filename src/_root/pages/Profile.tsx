@@ -45,7 +45,7 @@ const Profile = () => {
         <p className="text-sm">
           The follow feature is currently not available.
         </p>
-        <a href="#" className="text-sm">
+        <a href="https://github.com/RushilSethi/Mitraz" target="_blank" className="text-sm">
           Learn More
         </a>
       </div>
